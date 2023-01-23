@@ -12,6 +12,11 @@ public class SamCls1 {
 	public void simple2() {
 		System.out.println("--Am Am Groot--");
 	}
+	@Test
+	public void simple3() {
+		System.out.println("--Am Am Groot--");
+	}
+	
 
 
 }
